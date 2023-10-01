@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+networkx = "*"
+pyyaml = "*"
+xgi = "*"
+
+[dev-packages]
+pytest = "*"
+matplotlib = "*"
+types-pyyaml = "*"
+twine = "*"
+build = "*"
+
+[requires]
+python_version = "3.11"
