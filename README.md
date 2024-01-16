@@ -1,6 +1,6 @@
-# Graphs programming
+# YAML Hyperspec
 
-We can model the YAML representation graph as a Directed Hypergraph. This library connects YAML to existing graph libraries.
+The missing hypergraph text format. Encodes into YAML transparently and without keywords (domain, codomain, spiders, etc.)
 
 ## xgi_yaml
 
